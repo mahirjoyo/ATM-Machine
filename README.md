@@ -1,1 +1,1 @@
-This is Mahir's colourful ATM Machine
+This is Mahir's ATM Machine
